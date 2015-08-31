@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://xjyh.github.io/lastwilds/sitemap.xml 

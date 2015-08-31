@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://xjyh.github.io/lastwilds/atom.xml" rel="self"/>
+  <link href="http://xjyh.github.io/lastwilds/"/>
+  <updated>2015-08-31T04:35:08-04:00</updated>
+  <id>http://xjyh.github.io/lastwilds/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://xjyh.github.io/lastwilds/blog/2015/08/31/title/"/>
+    <updated>2015-08-31T04:06:02-04:00</updated>
+    <id>http://xjyh.github.io/lastwilds/blog/2015/08/31/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
